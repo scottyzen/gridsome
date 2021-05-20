@@ -1,5 +1,5 @@
 {
-  "version": "0.7.23",
+  "version": "0.7.23.1",
   "name": "gridsome",
   "description": "A JAMstack framework for building blazing fast websites with Vue.js",
   "scripts": {
