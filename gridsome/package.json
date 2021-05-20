@@ -3,7 +3,7 @@
   "name": "gridsome",
   "description": "A JAMstack framework for building blazing fast websites with Vue.js",
   "scripts": {
-    "prepublish": "npm install"
+    "prepare": "npm install"
   },
   "homepage": "https://gridsome.org",
   "repository": "https://github.com/gridsome/gridsome",
