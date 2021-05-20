@@ -2,6 +2,9 @@
   "version": "0.7.23",
   "name": "gridsome",
   "description": "A JAMstack framework for building blazing fast websites with Vue.js",
+  "scripts": {
+    "prepublish": "npm run build"
+  },
   "homepage": "https://gridsome.org",
   "repository": "https://github.com/gridsome/gridsome",
   "bugs": "https://github.com/gridsome/gridsome/issues",
